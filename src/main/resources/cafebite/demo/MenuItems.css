@@ -1,0 +1,21 @@
+.menu-grid {
+    -fx-padding: 20;
+    -fx-alignment: center;
+}
+
+.menu-item {
+    -fx-padding: 10;
+    -fx-alignment: top-center;
+    -fx-background-color: #ffffff;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.8), 15, 0.5, 0.0, 0.0);
+}
+
+.menu-item:hover {
+    -fx-background-color: #f0f0f0;
+}
+
+.menu-item-label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333;
+    -fx-padding: 5px;
+}

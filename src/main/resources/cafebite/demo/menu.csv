@@ -1,0 +1,13 @@
+Name,Type,Price,Quantity,imagePath
+Full English Breakfast,Breakfast,8.5,1,FullEnglish.png
+Welsh Rarebit,Breakfast,5.2,1,WelshRarebit.png
+Cornish Pasty,Lunch,6.75,1,CornishPasty.png
+Beef Wellington,Main Course,21.95,1,BeefWellington.png
+Fish and Chips,Main Course,10.5,1,FishAndChips.png
+Ploughmans Lunch,Lunch,7.25,1,PloughmansLunch.png
+Pea And Ham Soup,Soup,5.4,1,PeaAndHamSoup.png
+Scotch Broth,Soup,5.9,1,ScotchBroth.png
+Eton Mess,Dessert,6,1,EtonMess.png
+Bake Well Tart,Dessert,4.95,1,BakeWellTart.png
+Yorkshire Tea,Beverage,2.1,1,YorkshireTea.png
+Ginger Beer,Beverage,3.45,1,GingerBeer.png

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="600.0" spacing="20" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cafebite.demo.CustomerLoginController">
+    <Text styleClass="title-text" text="Welcome Back to CafeBite!" />
+    <TextField fx:id="username" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="42.0" prefWidth="800.0" promptText="Username" />
+    <PasswordField fx:id="password" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" promptText="Password" />
+    <Hyperlink onAction="#handleSignUp" text="New to CafeBite? Sign up here!" />
+    <Button minHeight="-Infinity" minWidth="-Infinity" onAction="#handleLogin" prefHeight="37.0" prefWidth="100.0" styleClass="button" text="Log In" />
+    <Button onAction="#handleBack" styleClass="back-button" text="Back" />
+</VBox>

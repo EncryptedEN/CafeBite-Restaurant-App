@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="600.0" prefWidth="700.0" spacing="20" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cafebite.demo.CustomerSignUpController">
+    <Text styleClass="title-text" text="Join CafeBite" />
+    <TextField fx:id="firstName" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" prefHeight="43.0" prefWidth="690.0" promptText="First Name" />
+    <TextField fx:id="lastName" maxWidth="-Infinity" promptText="Last Name" />
+    <TextField fx:id="address" maxWidth="-Infinity" promptText="Address" />
+    <TextField fx:id="username" maxWidth="-Infinity" promptText="Username" />
+    <PasswordField fx:id="password" maxHeight="-Infinity" maxWidth="-Infinity" promptText="Password" />
+    <Button onAction="#handleSignUp" styleClass="button" text="Sign Up" />
+    <Hyperlink onAction="#handleBackToLogin" styleClass="hyperlink" text="Already a member? Log in here!" />
+</VBox>

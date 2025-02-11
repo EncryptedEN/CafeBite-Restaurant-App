@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c74b2dc-95ba-4cf1-8d8c-d8707021c0f2" name="Changes" comment="LAtest Update">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/OrderData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaffData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/StaffData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/Booking/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/Booking/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/Booking/BookingModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/Booking/BookingModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/Booking/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/Booking/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/BookingTableController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/BookingTableController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/ChefController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/ChefController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/CustomerLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/CustomerLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/CustomerPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/CustomerPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/CustomerSignUpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/CustomerSignUpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/DeliveryDriverController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/DeliveryDriverController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/ManagerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/ManagerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/MenuPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/MenuPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/Order/OrderModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/Order/OrderModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/OrderManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/OrderManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/StaffDetailsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/StaffDetailsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/StaffMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/StaffMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/StaffPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/StaffPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/StaffSignUpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/StaffSignUpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cafebite/demo/WaiterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cafebite/demo/WaiterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/PrimaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/SecondaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/cafebite/demo/BookingTablePage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/primary.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/secondary.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2fvhAWvy587J8p3fuAdptb8afOw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.MainApp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Program Files/Java/javafx-sdk-17.0.10/lib",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c74b2dc-95ba-4cf1-8d8c-d8707021c0f2" name="Changes" comment="" />
+      <created>1714687316428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714687316428</updated>
+    </task>
+    <task id="LOCAL-00001" summary="LAtest Update">
+      <option name="closed" value="true" />
+      <created>1714695909631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714695909631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cmd" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LAtest Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAtest Update" />
+  </component>
+</project>

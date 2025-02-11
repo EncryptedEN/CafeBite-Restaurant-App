@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.text.Font?>
+
+<VBox xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cafebite.demo.CustomerPageController" spacing="20" alignment="CENTER" styleClass="root" fillWidth="true" >
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+    <Button text="Back to Main" onAction="#handleBack" styleClass="back-button">
+        <font>
+            <Font size="14"/>
+        </font>
+    </Button>
+    <Label text="Customer Options" style="-fx-font-size: 24px; -fx-text-fill: #333;">
+        <font>
+            <Font size="24"/>
+        </font>
+    </Label>
+    <Button text="Book Table" onAction="#bookTable" prefWidth="200" styleClass="option-button">
+        <font>
+            <Font size="18"/>
+        </font>
+    </Button>
+    <Button text="Make Order" onAction="#handleMakeOrder" styleClass="menu-button" prefWidth="200">
+        <font>
+            <Font size="18"/>
+        </font>
+    </Button>
+</VBox>

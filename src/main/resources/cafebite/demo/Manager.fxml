@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import java.net.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.Insets?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" spacing="20" styleClass="root" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cafebite.demo.ManagerController">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+    <Text styleClass="title-text" text="Manager Dashboard" />
+    <Button text="View Staff Details" onAction="#handleViewStaffDetails" styleClass="button"/>
+
+    <Button text="View Orders" styleClass="button" />
+    <Button text="Back to Login" onAction="#handleBack" styleClass="button" />
+</VBox>

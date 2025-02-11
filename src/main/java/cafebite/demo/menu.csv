@@ -1,0 +1,13 @@
+Name,Type,Price,Quantity,imagePath
+Full English Breakfast,Breakfast,8.5,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/FullEnglish.png
+Welsh Rarebit,Breakfast,5.2,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/WelshRarebit.png
+Cornish Pasty,Lunch,6.75,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/CornishPasty.png
+Beef Wellington,Main Course,21.95,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/BeefWellington.png
+Fish and Chips,Main Course,10.5,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/FishAndChips.png
+Ploughmans Lunch,Lunch,7.25,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/PloughmansLunch.png
+Pea And Ham Soup,Soup,5.4,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/PeaAndHamSoup.png
+Scotch Broth,Soup,5.9,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/ScotchBroth.png
+Eton Mess,Dessert,6,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/EtonMess.png
+Bake Well Tart,Dessert,4.95,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/BakeWellTart.png
+Yorkshire Tea,Beverage,2.1,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/YorkshireTea.png
+Ginger Beer,Beverage,3.45,1,C:/Application/Group/demo/src/main/resources/cafebite/demo/IMAGES/GingerBeer.png
